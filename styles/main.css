@@ -1,0 +1,11 @@
+.bg-header {
+background-color: #FFF9F4;
+}
+
+.brand__img {
+  width: 290px;
+}
+
+.col > .card {
+  height: 100%;
+}
